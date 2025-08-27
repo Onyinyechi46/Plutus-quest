@@ -1,7 +1,3 @@
--- PLUTUS QUEST – Console Prototype (Haskell)
--- Author: ChatGPT
--- Goal: A console game that teaches Plutus concepts in Haskell
-
 module Main where
 
 import System.IO (hFlush, stdout, hSetEncoding, utf8)
